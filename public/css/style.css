@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 32px;
+    margin-top: 5px;
+    vertical-align: middle;
+    border-style: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+.navbar {
+    height: 60px;
+}
+
+.button {
+    color: white;
+}
+
+.button:hover {
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    color: black;
+}
+
+
+
+.customer-btn {
+
+    background: #0d2b4d;
+    border: 1px solid #0d2b4d;
+    color: white;
+
+}
